@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Posts.Example" Description="Code analysis rules for Posts.Example" ToolsVersion="17.0">
+  <IncludeAll Action="None" />
+</RuleSet>
